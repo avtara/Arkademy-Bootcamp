@@ -19,7 +19,7 @@
 <label>Email : </label>
 </td>
 <td>
-<input type="email" name="email" placeholder="Insert Password">
+<input type="email" name="email" placeholder="Insert Email">
 </td>
 </tr>
 
