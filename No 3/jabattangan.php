@@ -10,8 +10,9 @@
 
 </head>
 <body>
-<script >alert("Silahkan Masukan Orang yang hadir lalu tekan enter");</script>
+
 <form  method="post">
+<p>Masukan Angka Lalu Tekan Enter*</p>
     <table>
         <tr>
             <td>
@@ -35,9 +36,7 @@ function jabat($joko) {
     $jabatan = ($joko * ($joko - 1)) / 2;
     echo "Jumlah Jabat Tangan Yang Terjadi " . $jabatan;
 };
-
 jabat($joko);
-
 ?>
 </body>
 </html>
