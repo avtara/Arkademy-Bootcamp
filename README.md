@@ -1,2 +1,3 @@
 # Arkademy-Bootcamp
-Bootcamp Arkademy
+Nama : Ellianto Sarono Putro
+Sekolah : SMK Shandy Putra Telkom Purwokerto
